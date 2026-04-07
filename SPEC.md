@@ -558,9 +558,9 @@ Guidelines:
 ### Backend (.env)
 ```
 PORT=5000
-MONGODB_URI=mongodb://localhost:27017/esl_speak
+MONGODB_URI=
 JWT_SECRET=your-super-secret-jwt-key
-GEMINI_API_KEY=AIzaSyBLTHJwkSbBsu4anwliB27jJtrlcBb2fyw
+GEMINI_API_KEY=
 NODE_ENV=development
 CORS_ORIGIN=http://localhost:3000
 ```
